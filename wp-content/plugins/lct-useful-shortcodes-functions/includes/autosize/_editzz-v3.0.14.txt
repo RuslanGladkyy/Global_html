@@ -1,0 +1,16 @@
+<?php /*
+Plugin Name: Autosize
+Plugin URI: http://www.jacklmoore.com/autosize/
+Version: 3.0.14
+Author:
+Author URI:
+License: GPL
+Description:
+*/ ?>
+
+== Log ==
+== 2015-12-04 ==
+	Updated to: v3.0.14
+	
+== 2014-08-01 ==
+	Added to: /apps/includes/

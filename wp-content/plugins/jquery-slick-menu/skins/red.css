@@ -1,0 +1,6 @@
+#dc-slick-%ID%, #dc-slick-%ID% .tab {border-color: #b8121a;}
+#dc-slick-%ID% .dc-slick-content {background: #ff646c;}
+#dc-slick-%ID% .tab {color: #fff; background: url(skins/images/bg_red.png) repeat-x 0 center; text-shadow: 1px 1px 1px #222; font-weight: bold;}
+#dc-slick-%ID% .tab span {background-image: url(skins/images/icon_plus_white.png);}
+#dc-slick-%ID%.active .tab span {background-image: url(skins/images/icon_minus_white.png);}
+#dc-slick-%ID% .dc-slick-content .menu a, #dc-slick-%ID% .dc-slick-content .menu{color: #fff;}

@@ -1,0 +1,5 @@
+#dc-slick-%ID%, #dc-slick-%ID% .tab {border-color: #86ad08;}
+#dc-slick-%ID% .dc-slick-content {background: #caef50;}
+#dc-slick-%ID% .tab {color: #000; background: url(skins/images/bg_green.png) repeat-x 0 center; text-shadow: 1px 1px 1px #fff; font-weight: bold;}
+#dc-slick-%ID% .tab span {background-image: url(skins/images/icon_plus_black.png);}
+#dc-slick-%ID%.active .tab span {background-image: url(skins/images/icon_minus_black.png);}

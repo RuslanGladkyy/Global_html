@@ -1,0 +1,19 @@
+#dc-slick-%ID%, #dc-slick-%ID% .tab {border-width: 3px; border-color: #999;}
+#dc-slick-%ID% .dc-slick-content {color: #000; background: #ECECEC;}
+#dc-slick-%ID% .tab {cursor: pointer; font-size: 13px; line-height: 13px; background: #ECECEC; padding: 12px 15px; color: #000; font-weight: bold;}
+#dc-slick-%ID% .tab span {display: block; padding: 0;}
+#dc-slick-%ID% .dc-slick-content .menu a, #dc-slick-%ID% .dc-slick-content .menu{color: #000;}
+
+#dc-slick-%ID%.left .tab {padding-right: 15px;}
+#dc-slick-%ID%.left .tab span {padding: 0;}
+#dc-slick-%ID%.right .tab, #dc-slick-%ID%.left .tab {top: 0;}
+#dc-slick-%ID%.top .tab {bottom: 3px;}
+#dc-slick-%ID%.top, #dc-slick-%ID%.top .tab {border-top: none;}
+#dc-slick-%ID%.right .tab {left: 3px; margin-top: -3px;}
+#dc-slick-%ID%.right, #dc-slick-%ID%.right .tab {border-right: none;}
+#dc-slick-%ID%.bottom .tab {top: 3px;}
+#dc-slick-%ID%.bottom, #dc-slick-%ID%.bottom .tab {border-bottom: none;}
+#dc-slick-%ID%.left .tab {right: 3px; margin-top: -3px;}
+#dc-slick-%ID%.left, #dc-slick-%ID%.left .tab {border-left: none;}
+#dc-slick-%ID%.align-right .tab {margin-right: -3px;}
+#dc-slick-%ID%.align-left .tab {margin-left: -3px;}
